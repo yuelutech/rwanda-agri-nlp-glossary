@@ -27,7 +27,7 @@ Our knowledge base draws from:
                            │
                     ┌──────▼───────┐
                     │  Knowledge   │
-                    │  Base (90+   │
+                    │  Base (9000+   │
                     │  documents)  │
                     └──────────────┘
 ```
